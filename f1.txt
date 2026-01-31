@@ -1,0 +1,4 @@
+apple is a fruit that is sweet and delicious
+mango is also a fruit but it tastes very different
+programming in c is fun and powerful
+apple grows in cold regions
